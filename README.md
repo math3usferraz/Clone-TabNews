@@ -1,2 +1,2 @@
-# Cardapio-Maison-Paris
-Vou tentar criar um cardápio digital para o restaurante Maison Paris
+# Clone-do-TabNews
+Vou criar um clone do Tabnews
