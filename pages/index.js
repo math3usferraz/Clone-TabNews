@@ -6,8 +6,6 @@ function home() {
       feito mal, só queria que tudo melhorasse, vou criar aqui dois botões, devo
       continuar ou não devo continuar, eai qual a repsosta?
     </h1>
-    <meta name="google-site-verification" content="9vuxqk9vkcs1qjlwhqpdvk9diu8hhqudzskqhtjepis" />
-
   );
 }
 
